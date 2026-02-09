@@ -1,4 +1,4 @@
-write cpp code to check if a given doubly linked list is a palindrome or not using counter approach.
+// write cpp code to check if a given doubly linked list is a palindrome or not using counter approach.
 #include <iostream>
 using namespace std;
 class Node {
