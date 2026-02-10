@@ -1,4 +1,4 @@
-Move to String_Programs/
+// ...existing code from string_transmission.cpp...Move to String_Programs/
 #include<iostream>
 #include<string>
 using namespace std;

@@ -1,4 +1,4 @@
-Move to Bitwise_Operations/
+// ...existing code from even_odd.cpp...Move to Bitwise_Operations/
 // check if number is even or odd
 
 #include<iostream>

@@ -1,4 +1,4 @@
-Move to Vowel_Programs/
+// ...existing code from vowel.cpp...Move to Vowel_Programs/
 // write a cpp code to check for vowels in the string.
 #include<iostream>
 #include <string>

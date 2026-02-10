@@ -1,4 +1,4 @@
-Move to OTP_Programs/
+// ...existing code from otp_generator.cpp...Move to OTP_Programs/
 #include <iostream>
 #include <cmath>
 using namespace std;

@@ -1,4 +1,4 @@
-Move to Customer_Programs/
+// ...existing code from lucky_customer.cpp...Move to Customer_Programs/
 // write a cpp code to print fibonacci series if user enters the input 8 it should print 8th Fibonacci number. statrt from 1th 
 #include <iostream>
 using namespace std;

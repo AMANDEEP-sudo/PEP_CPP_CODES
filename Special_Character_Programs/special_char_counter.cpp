@@ -1,4 +1,4 @@
-Move to Special_Character_Programs/
+// ...existing code from special_char_counter.cpp...Move to Special_Character_Programs/
 // write a cpp code to count special characters  and whitespaces in the string without using stl.
 
 #include<iostream>

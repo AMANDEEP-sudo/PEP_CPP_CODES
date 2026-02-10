@@ -1,4 +1,4 @@
-Move to Reverse_Programs/
+// ...existing code from numerr_reverse.cpp...Move to Reverse_Programs/
 #include<iostream>
 #include<cmath>
 #include<string>

@@ -1,4 +1,4 @@
-Move to Interest_Calculation/
+// ...existing code from SI_CI_calculation.cpp...// ...existing code from SI_CI_calculation.cpp...Move to Interest_Calculation/
 // write a cpp code to calculate si and ci and print the result write it using function and ask user for principal, rate, and time and if they want to calculate simple interest or compound interest.
 #include <iostream>
 #include <cmath>

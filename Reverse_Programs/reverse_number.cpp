@@ -1,4 +1,4 @@
-Move to Reverse_Programs/
+// ...existing code from reverse_number.cpp...Move to Reverse_Programs/
 // code to reverse a num.
 #include <iostream>
 using namespace std;

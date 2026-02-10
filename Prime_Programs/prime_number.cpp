@@ -1,4 +1,4 @@
-Move to Prime_Programs/
+// ...existing code from prime_number.cpp...Move to Prime_Programs/
 // check if the given number is prime or not
 #include <iostream>
 using namespace std;

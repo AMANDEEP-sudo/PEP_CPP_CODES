@@ -1,4 +1,4 @@
-Move to Inheritance_Examples/
+// ...existing code from inheritance_code_2.cpp...Move to Inheritance_Examples/
 #include <iostream>
 using namespace std;
 

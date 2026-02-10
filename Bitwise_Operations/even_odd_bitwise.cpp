@@ -1,4 +1,4 @@
-Move to Bitwise_Operations/
+// ...existing code from even_odd_bitwise.cpp...Move to Bitwise_Operations/
 #include<iostream>
 using namespace std;    
 

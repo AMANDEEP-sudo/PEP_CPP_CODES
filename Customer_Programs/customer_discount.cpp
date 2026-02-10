@@ -1,4 +1,4 @@
-Move to Customer_Programs/
+// ...existing code from customer_discount.cpp...Move to Customer_Programs/
 #include<iostream>
 using namespace std;
 int main(){
