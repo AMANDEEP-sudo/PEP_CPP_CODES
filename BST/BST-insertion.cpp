@@ -13,7 +13,7 @@ public:
         right = nullptr;
     }
 };
-
+//Insert function for BST;
 Node* insert(Node* root, int key) {
 
     Node* temp = new Node(key);
@@ -55,6 +55,45 @@ void inorder(Node* root) {
     inorder(root->right);
 }
 
+
+//min value function for BST;
+void minvalue(Node* root) {
+    Node* curr = root;
+
+    while (curr->left != nullptr) {
+        curr = curr->left;
+    }
+
+    cout << "Minimum value in the BST: " << curr->data << endl;
+}
+
+
+
+void maxValue(Node* root){
+    Node* curr = root;
+    while(current-> right != nullptr){
+        curr = curr-> right;
+    }
+    cout<<"max value is : "<<curr-> data<<endl;
+}
+
+//second max value function
+void secondMaxValue(Node* root){
+    Node* curr = root;
+    Node* prev = nullptr;
+
+    while(curr-> right != nullptr){
+        prev = curr;
+        curr = curr-> right;
+    }
+    if(curr-> left != nullptr){
+        maxValue(curr-> left);
+    }
+    else{
+        cout<<"second max value is : "<<prev-> data<<endl;
+    }
+}
+
 int main() {
 
     Node* root = nullptr;
@@ -67,6 +106,10 @@ int main() {
 
     cout << "Inorder Traversal: ";
     inorder(root);
+
+    minvalue(root);
+    maxValue(root);
+    secondMaxValue(root);
 
     return 0;
 }
